@@ -1,0 +1,14 @@
+{
+  "name": "sleact",
+  "version": "1.0.0",
+  "description": "강의교안 기여(Pull Request) 환영합니다.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seyeon",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-plugin-simple-import-sort": "^10.0.0"
+  }
+}
